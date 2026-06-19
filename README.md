@@ -1,13 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Ayush%20Trivedi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=B983FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Cyber+Security+Learner;Robotics+%26+IIOT+Explorer"/>
-<sub>🎓 MCA @ <img src="https://img.shields.io/badge/LPU-Lovely%20Professional%20University-302b63?style=flat-square&logo=graduation-cap&logoColor=B983FF" height="20" valign="middle"/> &nbsp;•&nbsp; 👁️ <img src="https://komarev.com/ghpvc/?username=Godbankai&style=flat&color=302b63" height="16" valign="middle"/></sub>
-
-<br>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-302b63?style=for-the-badge&logoColor=B983FF"/>
-<img src="https://img.shields.io/badge/Location-India-302b63?style=for-the-badge&logoColor=B983FF"/>
-<img src="https://img.shields.io/github/followers/Godbankai?style=for-the-badge&color=302b63&labelColor=0f0c29"/>
+<sub>🎓 Student of Lovely Professional University &nbsp;•&nbsp; 👁️ <img src="https://komarev.com/ghpvc/?username=Godbankai&style=flat&color=302b63" height="16" valign="middle"/></sub>
 
 </div>
 <br>
